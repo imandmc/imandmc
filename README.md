@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @imandmc :) Data Scientist.
+- 👀 I’m interested in Advanced Statistics. 
+- 🌱 I’m currently learning Machine Learning.
+- 💞️ I’m looking to collaborate on Government, Research. 
+- 📫 How to reach me jestebansalazarv@javeriana.edu.co
